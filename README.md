@@ -4,4 +4,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoppy-1229&layout=compact" />
 </a>
-https://github-readme-stats.vercel.app/api/wakatime?username=kyoppy-1229
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=kyoppy-1229&layout=compact" />
+</a>
